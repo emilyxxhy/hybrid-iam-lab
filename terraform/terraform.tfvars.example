@@ -1,0 +1,6 @@
+domain = "yourname.onmicrosoft.com"
+
+lab_users = {
+  alice = { display_name = "Alice Admin", department = "IT" }
+  bob   = { display_name = "Bob User",    department = "Sales" }
+}
