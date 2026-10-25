@@ -2,12 +2,8 @@
 *.tfstate
 *.tfstate.*
 *.tfvars
-.terraform.lock.hcl
 bootstrap/export/
-.terraform/
-*.tfstate
-*.tfstate.*
-*.tfvars
 *.zip
+*.log
 .DS_Store
 clouds.yaml
